@@ -1,7 +1,7 @@
 # Pizza-Sales
 Project Included
  
- -Creating DataBase in MS SQL 
+ - Creating DataBase in MS SQL 
  - Writting Querry in MS SQL
  - Creating Report
  - Importing Data into Power BI
