@@ -1,4 +1,4 @@
-# Pizza-Sales - SQL - POWER BI
+# Pizza-Sales 
 Project Included
  
  - Creating DataBase in MS SQL 
